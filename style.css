@@ -14,8 +14,8 @@ body {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-    width: 90%; /* Chiếm 90% chiều rộng màn hình */
-    max-width: 500px; /* Chiều rộng tối đa 500px */
+    width: 95%; /* Chiếm 90% chiều rộng màn hình */
+    max-width: 600px; /* Chiều rộng tối đa 500px */
 }
 
 input[type="text"] {
